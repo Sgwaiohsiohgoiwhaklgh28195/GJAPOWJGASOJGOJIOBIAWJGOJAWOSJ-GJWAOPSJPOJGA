@@ -1,6 +1,0 @@
-{
-  "front": "Test",
-  "back": "User",
-  "workType": "Drop1",
-  "userId": "USR103452"
-}
