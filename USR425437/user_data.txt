@@ -1,7 +1,0 @@
-{
-  "front": "Finn",
-  "back": "Oostenrijk",
-  "workType": "Drop1",
-  "userId": "USR425437",
-  "physicalId": "Update dit"
-}
